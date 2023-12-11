@@ -1,0 +1,25 @@
+<RCC>
+    <qresource prefix="/">
+        <file>plup.jpeg</file>
+        <file>fon2.jpeg</file>
+        <file>1.jpeg</file>
+        <file>answers.txt</file>
+        <file>castle.jpeg</file>
+        <file>totoro.jpeg</file>
+        <file>mononoke.jpeg</file>
+        <file>bugs.jpeg</file>
+        <file>witch.jpeg</file>
+        <file>bus.jpeg</file>
+        <file>fish.jpeg</file>
+        <file>twin.jpeg</file>
+        <file>stone.jpeg</file>
+        <file>tix.jpeg</file>
+        <file>mon.jpeg</file>
+        <file>chicks.jpeg</file>
+        <file>miyazaki.jpeg</file>
+        <file>fonchik.jpeg</file>
+        <file>cat.jpeg</file>
+        <file>w.jpeg</file>
+        <file>cal.jpeg</file>
+    </qresource>
+</RCC>
